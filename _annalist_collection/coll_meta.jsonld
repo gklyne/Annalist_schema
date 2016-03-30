@@ -16,6 +16,6 @@
   "annal:software_version": "0.1.29",
   "annal:type": "annal:Collection",
   "annal:type_id": "_coll",
-  "rdfs:comment": "Schema definitions for terms in Annalist (`annal:`) namesapce",
-  "rdfs:label": "Schema definitions for terms in Annalist namesapce"
+  "rdfs:comment": "Schema definitions for terms in the Annalist (`annal:`) namesapce",
+  "rdfs:label": "Schema definitions for terms in the Annalist namespace"
 }
