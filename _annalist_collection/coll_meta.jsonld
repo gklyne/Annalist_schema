@@ -1,0 +1,21 @@
+{
+  "@context": [
+    "coll_context.jsonld"
+  ],
+  "@id": "../",
+  "@type": [
+    "annal:Collection"
+  ],
+  "annal:default_list": "Classes",
+  "annal:default_view_entity": null,
+  "annal:default_view_id": null,
+  "annal:default_view_type": null,
+  "annal:id": "Annalist_schema",
+  "annal:inherit_from": "_coll/RDF_schema_defs",
+  "annal:meta_comment": "",
+  "annal:software_version": "0.1.29",
+  "annal:type": "annal:Collection",
+  "annal:type_id": "_coll",
+  "rdfs:comment": "Schema definitions for terms in Annalist (`annal:`) namesapce",
+  "rdfs:label": "Schema definitions for terms in Annalist namesapce"
+}
